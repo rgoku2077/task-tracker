@@ -11,3 +11,6 @@ A simple to-do list app we build while learning GitHub project management.
  
  # Team
  - Project Manager: Goku
+
+ ## Timeline
+Hour 2: first pull request merged
